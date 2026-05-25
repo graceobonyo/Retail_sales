@@ -1,6 +1,6 @@
 # Retail_sales
 
-This projects is a tableau based that stores ,visualises and analyses discount effects on sales perfomance across different regions;customer's segment ,age group and gender;product's category,brand and name and payment method of a retail store .The information provide the retail store with information analysed that can be used in writing a report and making other data driven decisions on the sales of the products.
+This project is a tableau focused that stores ,visualises and analyses discount effects on sales perfomance across different regions;customer's segment ,age group and gender;product's category,brand and name and payment method of a retail store .The information provide the retail store with information analysed that can be used in writing a report and making other data driven decisions on the sales of the products.
 
 FEATURES
 
